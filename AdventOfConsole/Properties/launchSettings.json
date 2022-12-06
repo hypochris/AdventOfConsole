@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AdventOfConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Development\\AdventOfConsole\\AdventOfConsole\\Datasets\\202206.txt 2"
+    }
+  }
+}
